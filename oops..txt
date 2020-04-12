@@ -1,0 +1,60 @@
+ assignments
+
+OOPS ASSIGNMENT
+
+
+ASSIGNMENT
+DATE OF SUBMISSION : 12-APR-2020
+Object Oriented Programming using C++
+SECTION-A
+Note: Very Short Answer type questions.
+Q.1 a) State one difference between variable and constant.
+b) Define Destructors.
+c) Name one operator that can not be overloaded.
+d) What are used defined data types?
+e) Define preprocessor directives.
+f) "Abstract class may be instantiated".
+This statement is true or false?
+g) Define scope resolution operator.
+h) What are static functions?
+i) Define polymorphism
+j) Can a constructor be overloaded?
+k) Write the use of break statement?
+l) Write one difference between constructor and destructor.
+m) What is the use of friend function?
+n) Define Cin and Cout?
+o) Write the syntax of do-while loop?
+p) Define stream?
+q) What is structure?
+r) Define object?
+
+
+SECTION-B
+Note: Short answer type questions.
+Q.2 i) Write short notes on
+a) Encapsulation b) Data hiding
+ii) What are the advantages and disadvantages of object oriented programming approach.
+iii) How is static binding different from dynamic binding?
+iv) Explain private inheritance using an example.
+v) What are inline functions? What are the advantages?
+vi) Write a program in C++ illustrating the concept of for loop.
+vii) Explain virtual base class?
+viii) Write a program in C++ illustrating the concept of  pointers?
+ix) Define union. What is the difference between a union and a structure.
+x) Differentiate between constructor and destructor.
+xi) What are the limitations of operator overloading in C++?
+xii) Explain the components of a file.
+xiii) Discuss the use of Header files.
+xiv) Describe parametrised constructor with an example.
+xv) Write a program in C++ that opens and closes a file.
+
+
+SECTION-C
+Note: Long answer type questions.
+Q.3 What do you understand by object oriented programming? Compare procedure oriented programming and object oriented programming.
+Q.4 Write a program in C++ to multiply two matrices.
+Q.5 What are the differences between formal and actual parameters. Explain with example.
+Q.6 What are the various types of control structures in C++? Explain with suitable examples.
+Q.7 What is virtual function? Explain the need of virtual function with suitable examples.
+
+
